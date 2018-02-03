@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  background-color: #000;
+}
+
+img {
+  max-width:100%;
+  height:auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.navbar-inverse {
+  background-color: rgba(40, 40, 40, 0.8);
+}
+
+#bigRecord {
+	margin-top: -50px;
+	margin-bottom: 50px;
+}
+
+#bigRecord2 {
+	margin-top: 20px;
+}
+
+#mainGraphic {
+}
+
+#buttonBar {
+}
+
+.row.text-center > div {
+    display: inline-block;
+    float: none;
+}
+
+.beatport {
+  background: none;
+  width: auto;
+  height: 22px;
+}
